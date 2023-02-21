@@ -1,13 +1,7 @@
 {
   "users" : [
   
-  {
-    "name": "chandrashekhar joshi",
-    "category": "9",
-    "difficulty": "medium",
-    "number_questions": "123",
-    "id": 4
-  },
+
   {
     "name": "neha joshi",
     "category": "22",
@@ -15,13 +9,7 @@
     "number_questions": "2",
     "id": 5
   },
-  {
-    "name": "chandrashekhar joshi",
-    "category": "9",
-    "difficulty": "easy",
-    "number_questions": "10",
-    "id": 6
-  },
+ 
   {
     "name": "chandrashekhar joshi",
     "category": "9",
@@ -29,27 +17,9 @@
     "number_questions": "10",
     "id": 7
   },
-  {
-    "name": "chandrashekhar joshi",
-    "category": "9",
-    "difficulty": "medium",
-    "number_questions": "2",
-    "id": 8
-  },
-  {
-    "name": "chandrashekhar joshi",
-    "category": "9",
-    "difficulty": "easy",
-    "number_questions": "2",
-    "id": 9
-  },
-  {
-    "name": "csj",
-    "category": "9",
-    "difficulty": "easy",
-    "number_questions": "2",
-    "id": 10
-  },
+
+
+  
   {
     "name": "csj",
     "category": "9",
